@@ -21,7 +21,7 @@
 #PBS -l cput=01:00:00
 
 
-cd /home/u24/bpope
+cd /home/u24/bpope/files
 
 date
 /usr/bin/time echo "This is a test. Only a test. Do not panic"
