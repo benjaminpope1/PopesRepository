@@ -1,7 +1,5 @@
 #!/bin/csh
 
-#!/bin/csh
-
 #PBS -N ISTA_HW9
 
 #PBS -m bea
@@ -18,9 +16,9 @@
 
 #PBS -l place=pack:shared
 
-#PBS -l walltime=00:01:00
+#PBS -l walltime=01:00:00
 
-#PBS -l cput=00:01:00
+#PBS -l cput=01:00:00
 
 
 cd /home/u24/bpope
